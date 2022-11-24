@@ -11,7 +11,8 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Heading
 
-![alt text] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUU2msuBulN3Nosfaqio-imbDlxoNnODpE7lfyFHqVTxSLsZdIOVh83c0J18uAsCiyuiQ&usqp=CAU)
+### Image
+  ![alt text] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUU2msuBulN3Nosfaqio-imbDlxoNnODpE7lfyFHqVTxSLsZdIOVh83c0J18uAsCiyuiQ&usqp=CAU)
 
 # H1
 ## H2
