@@ -53,7 +53,7 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Image
 
-![alt text](https://www.markdownguide.org/assets/images/tux.png)
+![alt text](https://yt3.ggpht.com/25emhDG3GcRk-p-kL2ntJyw0zn9AJ0zx72kVqrLLMs0XFClQ395UbxCA1SfB8g_DwaJleBRgcg=s900-c-k-c0x00ffffff-no-rj)
 
 ## Extended Syntax
 
